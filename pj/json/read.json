@@ -1,0 +1,455 @@
+{
+    
+    "data": [
+        {
+            "index": 0,
+            "Recip_County": "Lawrence County",
+            "Series_Complete_Yes": 6938
+        },
+        {
+            "index": 1,
+            "Recip_County": "Escambia County",
+            "Series_Complete_Yes": 12112
+        },
+        {
+            "index": 2,
+            "Recip_County": "Tama County",
+            "Series_Complete_Yes": 9777
+        },
+        {
+            "index": 3,
+            "Recip_County": "Mariposa County",
+            "Series_Complete_Yes": 0
+        },
+        {
+            "index": 4,
+            "Recip_County": "Jackson County",
+            "Series_Complete_Yes": 9568
+        },
+        {
+            "index": 5,
+            "Recip_County": "Barren County",
+            "Series_Complete_Yes": 18351
+        },
+        {
+            "index": 6,
+            "Recip_County": "Lake of the Woods County",
+            "Series_Complete_Yes": 1939
+        },
+        {
+            "index": 7,
+            "Recip_County": "Lajas Municipio",
+            "Series_Complete_Yes": 15565
+        },
+        {
+            "index": 8,
+            "Recip_County": "Alamance County",
+            "Series_Complete_Yes": 89037
+        },
+        {
+            "index": 9,
+            "Recip_County": "Nome Census Area",
+            "Series_Complete_Yes": 6189
+        },
+        {
+            "index": 10,
+            "Recip_County": "Lincoln County",
+            "Series_Complete_Yes": 21146
+        },
+        {
+            "index": 11,
+            "Recip_County": "Rusk County",
+            "Series_Complete_Yes": 18728
+        },
+        {
+            "index": 12,
+            "Recip_County": "Rains County",
+            "Series_Complete_Yes": 4203
+        },
+        {
+            "index": 13,
+            "Recip_County": "Isabella County",
+            "Series_Complete_Yes": 28896
+        },
+        {
+            "index": 14,
+            "Recip_County": "Plymouth County",
+            "Series_Complete_Yes": 325292
+        },
+        {
+            "index": 15,
+            "Recip_County": "Jefferson Davis County",
+            "Series_Complete_Yes": 4492
+        },
+        {
+            "index": 16,
+            "Recip_County": "Guilford County",
+            "Series_Complete_Yes": 295312
+        },
+        {
+            "index": 17,
+            "Recip_County": "Charlton County",
+            "Series_Complete_Yes": 1729
+        },
+        {
+            "index": 18,
+            "Recip_County": "Franklin County",
+            "Series_Complete_Yes": 22931
+        },
+        {
+            "index": 19,
+            "Recip_County": "McIntosh County",
+            "Series_Complete_Yes": 5198
+        },
+        {
+            "index": 20,
+            "Recip_County": "Rio Grande Municipio",
+            "Series_Complete_Yes": 30710
+        },
+        {
+            "index": 21,
+            "Recip_County": "Miller County",
+            "Series_Complete_Yes": 7856
+        },
+        {
+            "index": 22,
+            "Recip_County": "Noble County",
+            "Series_Complete_Yes": 6314
+        },
+        {
+            "index": 23,
+            "Recip_County": "Arthur County",
+            "Series_Complete_Yes": 81
+        },
+        {
+            "index": 24,
+            "Recip_County": "Crawford County",
+            "Series_Complete_Yes": 17215
+        },
+        {
+            "index": 25,
+            "Recip_County": "Peach County",
+            "Series_Complete_Yes": 4338
+        },
+        {
+            "index": 26,
+            "Recip_County": "Cherokee County",
+            "Series_Complete_Yes": 79977
+        },
+        {
+            "index": 27,
+            "Recip_County": "Southampton County",
+            "Series_Complete_Yes": 6269
+        },
+        {
+            "index": 28,
+            "Recip_County": "St. Joseph County",
+            "Series_Complete_Yes": 146483
+        },
+        {
+            "index": 29,
+            "Recip_County": "Knox County",
+            "Series_Complete_Yes": 1477
+        },
+        {
+            "index": 30,
+            "Recip_County": "Milam County",
+            "Series_Complete_Yes": 10283
+        },
+        {
+            "index": 31,
+            "Recip_County": "Morris County",
+            "Series_Complete_Yes": 2889
+        },
+        {
+            "index": 32,
+            "Recip_County": "Dutchess County",
+            "Series_Complete_Yes": 186603
+        },
+        {
+            "index": 33,
+            "Recip_County": "Richmond County",
+            "Series_Complete_Yes": 19413
+        },
+        {
+            "index": 34,
+            "Recip_County": "Carroll County",
+            "Series_Complete_Yes": 32131
+        },
+        {
+            "index": 35,
+            "Recip_County": "Luquillo Municipio",
+            "Series_Complete_Yes": 11223
+        },
+        {
+            "index": 36,
+            "Recip_County": "Fauquier County",
+            "Series_Complete_Yes": 39008
+        },
+        {
+            "index": 37,
+            "Recip_County": "Franklin County",
+            "Series_Complete_Yes": 7847
+        },
+        {
+            "index": 38,
+            "Recip_County": "Livingston County",
+            "Series_Complete_Yes": 6188
+        },
+        {
+            "index": 39,
+            "Recip_County": "Jackson County",
+            "Series_Complete_Yes": 4651
+        },
+        {
+            "index": 40,
+            "Recip_County": "Toole County",
+            "Series_Complete_Yes": 2002
+        },
+        {
+            "index": 41,
+            "Recip_County": "Montgomery County",
+            "Series_Complete_Yes": 10508
+        },
+        {
+            "index": 42,
+            "Recip_County": "Bristol County",
+            "Series_Complete_Yes": 34245
+        },
+        {
+            "index": 43,
+            "Recip_County": "Ouachita Parish",
+            "Series_Complete_Yes": 63083
+        },
+        {
+            "index": 44,
+            "Recip_County": "Schleicher County",
+            "Series_Complete_Yes": 1116
+        },
+        {
+            "index": 45,
+            "Recip_County": "Greene County",
+            "Series_Complete_Yes": 132442
+        },
+        {
+            "index": 46,
+            "Recip_County": "Cowley County",
+            "Series_Complete_Yes": 15053
+        },
+        {
+            "index": 47,
+            "Recip_County": "Brooks County",
+            "Series_Complete_Yes": 4937
+        },
+        {
+            "index": 48,
+            "Recip_County": "Iron County",
+            "Series_Complete_Yes": 21972
+        },
+        {
+            "index": 49,
+            "Recip_County": "Leelanau County",
+            "Series_Complete_Yes": 17000
+        },
+        {
+            "index": 50,
+            "Recip_County": "Champaign County",
+            "Series_Complete_Yes": 120387
+        },
+        {
+            "index": 51,
+            "Recip_County": "Dinwiddie County",
+            "Series_Complete_Yes": 12688
+        },
+        {
+            "index": 52,
+            "Recip_County": "Chase County",
+            "Series_Complete_Yes": 1108
+        },
+        {
+            "index": 53,
+            "Recip_County": "Dickinson County",
+            "Series_Complete_Yes": 15837
+        },
+        {
+            "index": 54,
+            "Recip_County": "Chester County",
+            "Series_Complete_Yes": 5665
+        },
+        {
+            "index": 55,
+            "Recip_County": "Valencia County",
+            "Series_Complete_Yes": 41006
+        },
+        {
+            "index": 56,
+            "Recip_County": "Alleghany County",
+            "Series_Complete_Yes": 5574
+        },
+        {
+            "index": 57,
+            "Recip_County": "Moffat County",
+            "Series_Complete_Yes": 5180
+        },
+        {
+            "index": 58,
+            "Recip_County": "New Haven County",
+            "Series_Complete_Yes": 600974
+        },
+        {
+            "index": 59,
+            "Recip_County": "Dorchester County",
+            "Series_Complete_Yes": 17075
+        },
+        {
+            "index": 60,
+            "Recip_County": "Griggs County",
+            "Series_Complete_Yes": 979
+        },
+        {
+            "index": 61,
+            "Recip_County": "Schoharie County",
+            "Series_Complete_Yes": 16261
+        },
+        {
+            "index": 62,
+            "Recip_County": "Decatur County",
+            "Series_Complete_Yes": 2950
+        },
+        {
+            "index": 63,
+            "Recip_County": "Caroline County",
+            "Series_Complete_Yes": 11703
+        },
+        {
+            "index": 64,
+            "Recip_County": "Warren County",
+            "Series_Complete_Yes": 135345
+        },
+        {
+            "index": 65,
+            "Recip_County": "North Slope Borough",
+            "Series_Complete_Yes": 3379
+        },
+        {
+            "index": 66,
+            "Recip_County": "Miner County",
+            "Series_Complete_Yes": 1097
+        },
+        {
+            "index": 67,
+            "Recip_County": "Hardy County",
+            "Series_Complete_Yes": 3400
+        },
+        {
+            "index": 68,
+            "Recip_County": "Denali Borough",
+            "Series_Complete_Yes": 995
+        },
+        {
+            "index": 69,
+            "Recip_County": "Chester County",
+            "Series_Complete_Yes": 328361
+        },
+        {
+            "index": 70,
+            "Recip_County": "Madison County",
+            "Series_Complete_Yes": 7340
+        },
+        {
+            "index": 71,
+            "Recip_County": "Jim Hogg County",
+            "Series_Complete_Yes": 2613
+        },
+        {
+            "index": 72,
+            "Recip_County": "Trego County",
+            "Series_Complete_Yes": 1051
+        },
+        {
+            "index": 73,
+            "Recip_County": "Caldwell County",
+            "Series_Complete_Yes": 3255
+        },
+        {
+            "index": 74,
+            "Recip_County": "Fulton County",
+            "Series_Complete_Yes": 26471
+        },
+        {
+            "index": 75,
+            "Recip_County": "Sumter County",
+            "Series_Complete_Yes": 48501
+        },
+        {
+            "index": 76,
+            "Recip_County": "Baltimore city",
+            "Series_Complete_Yes": 339239
+        },
+        {
+            "index": 77,
+            "Recip_County": "Roger Mills County",
+            "Series_Complete_Yes": 1197
+        },
+        {
+            "index": 78,
+            "Recip_County": "Saline County",
+            "Series_Complete_Yes": 54700
+        },
+        {
+            "index": 79,
+            "Recip_County": "Kenton County",
+            "Series_Complete_Yes": 90650
+        },
+        {
+            "index": 80,
+            "Recip_County": "Mingo County",
+            "Series_Complete_Yes": 5815
+        },
+        {
+            "index": 81,
+            "Recip_County": "Jackson County",
+            "Series_Complete_Yes": 18557
+        },
+        {
+            "index": 82,
+            "Recip_County": "Brooke County",
+            "Series_Complete_Yes": 4846
+        },
+        {
+            "index": 83,
+            "Recip_County": "Boyd County",
+            "Series_Complete_Yes": 620
+        },
+        {
+            "index": 84,
+            "Recip_County": "Kanawha County",
+            "Series_Complete_Yes": 57190
+        },
+        {
+            "index": 85,
+            "Recip_County": "Esmeralda County",
+            "Series_Complete_Yes": 334
+        },
+        {
+            "index": 86,
+            "Recip_County": "Thayer County",
+            "Series_Complete_Yes": 2178
+        },
+        {
+            "index": 87,
+            "Recip_County": "Payne County",
+            "Series_Complete_Yes": 36095
+        },
+        {
+            "index": 88,
+            "Recip_County": "Gladwin County",
+            "Series_Complete_Yes": 11477
+        },
+        {
+            "index": 89,
+            "Recip_County": "Unknown County",
+            "Series_Complete_Yes": 7093
+        }
+    ]
+}
